@@ -1,3 +1,3 @@
 # Cross-domain Random Pre-training with Prototypes for Reinforcement Learning
 
-Under review.
+2024/8 Under review.
